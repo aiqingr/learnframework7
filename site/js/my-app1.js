@@ -1,5 +1,5 @@
 // Initialize app and store it to myApp variable for futher access to its method
-var myApp = new framework7();
+var myApp = new Framework7();
 
 // We need to use custom DOM library, let's save it to $$ variable
 var $$ = Dom7;
